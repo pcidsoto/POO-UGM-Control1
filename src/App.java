@@ -16,14 +16,14 @@ public class App {
         system.addEmployee(emp1);
         system.addEmployee(emp2);
 
-        // Crear asignaciones de trabajo
+        // Crear tareas de trabajo, no se entrega detalle de tareas, pero pueden ser clases con atributos.
         String[] tasks1 = {"Inventario", "Limpieza"};
         String[] tasks2 = {"Ventas", "Atención"};
 
         WorkAssignment assignment1 = new WorkAssignment("Almacén", tasks1, 40, 150.0, 1);
         WorkAssignment assignment2 = new WorkAssignment("Ventas", tasks2, 35, 200.0, 1);
 
-        // Agregar asignaciones a empleados
+        // Agregar tareas a empleados
         emp1.addAssignment(assignment1);
         emp2.addAssignment(assignment2);
 

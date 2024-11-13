@@ -1,6 +1,6 @@
 ## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Enunciado
+"Desarrolle un Programa en Java que permita manejar para un grupo de 'n' empleados la información personal y anidada a esta misma clase se encuentre un registro de: Las áreas de trabajo asignadas por semanas, las tareas diarias asignadas para estas áreas, las horas efectivas laboradas, así como una bonificación especial de producción. Puedes utilizar formato de salida a manera de tablas con la sentencia printf."
 
 ## Folder Structure
 
